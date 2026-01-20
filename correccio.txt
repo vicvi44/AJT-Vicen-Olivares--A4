@@ -1,0 +1,15 @@
+Exercici 1. 2/2
+Comentari: fes els "import" fora de les funcions.
+
+  
+Exercici 2. 1,9/2
+Falta un "else" que et retorni "False, 0" en cas que l'element no hagi aparegut.
+  
+Exercici 3. 2/2
+
+Exercici 4. 2/2
+
+Exercici 5. 1,9/2
+Les funcions demana_posicio(),  comprovar_victoria(), etc, haurien d'incloure l'input "N" que ara estan utilitzant.
+  
+Nota: 9,8/10
